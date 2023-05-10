@@ -1,0 +1,5 @@
+/home/ouxiang/tmp/t2/usr/share/doc/cmake/t2/COPYRIGHT
+/home/ouxiang/tmp/t2/usr/share/doc/cmake/t2/README
+/home/ouxiang/tmp/t2/usr/bin/runhello.sh
+/home/ouxiang/tmp/t2/usr/share/doc/cmake/t2/hello.txt
+/home/ouxiang/tmp/t2/usr/bin/hello
