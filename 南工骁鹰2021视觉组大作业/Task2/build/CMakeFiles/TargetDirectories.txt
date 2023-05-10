@@ -1,0 +1,3 @@
+/home/ouxiang/桌面/Code/Task2/build/CMakeFiles/rebuild_cache.dir
+/home/ouxiang/桌面/Code/Task2/build/CMakeFiles/edit_cache.dir
+/home/ouxiang/桌面/Code/Task2/build/CMakeFiles/Task2.dir

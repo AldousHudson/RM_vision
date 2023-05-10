@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "chrono": "cpp"
+    },
+    // "cmake.sourceDirectory": "/home/ouxiang/桌面/Code/RM_vision/Tests/Test",
+    // "cmake.buildDirectory": "/home/ouxiang/桌面/Code/RM_vision/Tests/Test",
+    "cmake.sourceDirectory": "/home/ouxiang/桌面/Code/RM_vision/MyTests/mytest111",
+    "cmake.buildDirectory": "${workspaceFolder}",
+}

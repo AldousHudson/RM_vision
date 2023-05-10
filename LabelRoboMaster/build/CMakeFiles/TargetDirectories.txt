@@ -1,0 +1,10 @@
+/home/ouxiang/RM_vision/LabelRoboMaster/build/CMakeFiles/install/local.dir
+/home/ouxiang/RM_vision/LabelRoboMaster/build/CMakeFiles/install.dir
+/home/ouxiang/RM_vision/LabelRoboMaster/build/CMakeFiles/list_install_components.dir
+/home/ouxiang/RM_vision/LabelRoboMaster/build/CMakeFiles/rebuild_cache.dir
+/home/ouxiang/RM_vision/LabelRoboMaster/build/CMakeFiles/edit_cache.dir
+/home/ouxiang/RM_vision/LabelRoboMaster/build/CMakeFiles/install/strip.dir
+/home/ouxiang/RM_vision/LabelRoboMaster/build/CMakeFiles/LabelRoboMaster.dir
+/home/ouxiang/RM_vision/LabelRoboMaster/build/CMakeFiles/rcc_object_resource.dir
+/home/ouxiang/RM_vision/LabelRoboMaster/build/CMakeFiles/big_resources_resource.dir
+/home/ouxiang/RM_vision/LabelRoboMaster/build/CMakeFiles/LabelRoboMaster_autogen.dir
